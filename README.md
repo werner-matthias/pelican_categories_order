@@ -26,8 +26,8 @@ following way:
 	CATEGORIES_ORDER = {
 		'category b': 10,
 		'category a': 20,
-		'misc':          999,
+		'misc':       999,
 		}
 
 A category that does not exist in `CATEGORIES_ORDER` will be ordered
-as if it hat the order value 100.
+with the order value 100.
