@@ -14,9 +14,9 @@ be the last.
 
 Copy the `pelican_categories_order` folder to  a place your
 `PLUGIN_PATHS`.
-Next, add `categories_order` to the `PLUGIN` list, e.g.:
+Next, add `pelican_categories_order` to the `PLUGIN` list, e.g.:
 
-	PLUGINS = [' categories_order']
+	PLUGINS = [' pelican_categories_order']
 
 ## Configuration
 
